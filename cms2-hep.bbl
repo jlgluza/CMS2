@@ -1,0 +1,245 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Bahcall:1976zz}
+J.~N. Bahcall, R.~Davis, {Solar Neutrinos - a Scientific Puzzle}, Science 191
+  (1976) 264--267.
+\newblock \href {http://dx.doi.org/10.1126/science.191.4224.264}
+  {\path{doi:10.1126/science.191.4224.264}}.
+
+\bibitem{Wietfeldt:1995ja}
+F.~E. Wietfeldt, E.~B. Norman, {The 17-KeV neutrino}, Phys. Rept. 273 (1996)
+  149--197.
+\newblock \href {http://dx.doi.org/10.1016/0370-1573(95)00082-8}
+  {\path{doi:10.1016/0370-1573(95)00082-8}}.
+
+\bibitem{Franklin:1995pk}
+A.~Franklin, {The Appearance and disappearance of the 17-keV neutrino}, Rev.
+  Mod. Phys. 67 (1995) 457--490.
+\newblock \href {http://dx.doi.org/10.1103/RevModPhys.67.457}
+  {\path{doi:10.1103/RevModPhys.67.457}}.
+
+\bibitem{Akhmedov:2014kxa}
+E.~Akhmedov, {Majorana neutrinos and other Majorana particles:Theory and
+  experiment}.
+\newblock \href {http://arxiv.org/abs/1412.3320} {\path{arXiv:1412.3320}}.
+
+\bibitem{Antonello:2012hg}
+M.~Antonello, et~al., {Measurement of the neutrino velocity with the ICARUS
+  detector at the CNGS beam}, Phys. Lett. B713 (2012) 17--22.
+\newblock \href {http://arxiv.org/abs/1203.3433} {\path{arXiv:1203.3433}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2012.05.033}
+  {\path{doi:10.1016/j.physletb.2012.05.033}}.
+
+\bibitem{Khachatryan:2014dka}
+V.~Khachatryan, et~al., {Search for heavy neutrinos and $\mathrm {W}$ bosons
+  with right-handed couplings in proton-proton collisions at $\sqrt{s} =
+  8\,\text {TeV} $}, Eur. Phys. J. C74~(11) (2014) 3149.
+\newblock \href {http://arxiv.org/abs/1407.3683} {\path{arXiv:1407.3683}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-014-3149-z}
+  {\path{doi:10.1140/epjc/s10052-014-3149-z}}.
+
+\bibitem{Deppisch:2014qpa}
+F.~F. Deppisch, T.~E. Gonzalo, S.~Patra, N.~Sahu, U.~Sarkar, {Signal of
+  Right-Handed Charged Gauge Bosons at the LHC?}, Phys. Rev. D90~(5) (2014)
+  053014.
+\newblock \href {http://arxiv.org/abs/1407.5384} {\path{arXiv:1407.5384}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.90.053014}
+  {\path{doi:10.1103/PhysRevD.90.053014}}.
+
+\bibitem{Heikinheimo:2014tba}
+M.~Heikinheimo, M.~Raidal, C.~Spethmann, {Testing Right-Handed Currents at the
+  LHC}, Eur. Phys. J. C74~(10) (2014) 3107.
+\newblock \href {http://arxiv.org/abs/1407.6908} {\path{arXiv:1407.6908}},
+  \href {http://dx.doi.org/10.1140/epjc/s10052-014-3107-9}
+  {\path{doi:10.1140/epjc/s10052-014-3107-9}}.
+
+\bibitem{Deppisch:2014zta}
+F.~F. Deppisch, T.~E. Gonzalo, S.~Patra, N.~Sahu, U.~Sarkar, {Double beta
+  decay, lepton flavor violation, and collider signatures of left-right
+  symmetric models with spontaneous $D$-parity breaking}, Phys. Rev. D91~(1)
+  (2015) 015018.
+\newblock \href {http://arxiv.org/abs/1410.6427} {\path{arXiv:1410.6427}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.91.015018}
+  {\path{doi:10.1103/PhysRevD.91.015018}}.
+
+\bibitem{Aguilar-Saavedra:2014ola}
+J.~A. Aguilar-Saavedra, F.~R. Joaquim, {Closer look at the possible CMS signal
+  of a new gauge boson}, Phys. Rev. D90~(11) (2014) 115010.
+\newblock \href {http://arxiv.org/abs/1408.2456} {\path{arXiv:1408.2456}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.90.115010}
+  {\path{doi:10.1103/PhysRevD.90.115010}}.
+
+\bibitem{Ng:2015hba}
+J.~N. Ng, A.~de~la Puente, B.~W.-P. Pan, {Search for Heavy Right-Handed
+  Neutrinos at the LHC and Beyond in the Same-Sign Leptons Final State}\href
+  {http://arxiv.org/abs/1505.01934} {\path{arXiv:1505.01934}}.
+
+\bibitem{Dobrescu:2015qna}
+B.~A. Dobrescu, Z.~Liu, {A W' Boson near 2 TeV: Predictions for Run 2 of the
+  LHC}\href {http://arxiv.org/abs/1506.06736} {\path{arXiv:1506.06736}}.
+
+\bibitem{Brehmer:2015cia}
+J.~Brehmer, J.~Hewett, J.~Kopp, T.~Rizzo, J.~Tattersall, {Symmetry Restored in
+  Dibosons at the LHC?}\href {http://arxiv.org/abs/1507.00013}
+  {\path{arXiv:1507.00013}}.
+
+\bibitem{Dev:2015pga}
+P.~S.~B. Dev, R.~N. Mohapatra, {Unified explanation of the $eejj$, diboson and
+  dijet resonances at the LHC}\href {http://arxiv.org/abs/1508.02277}
+  {\path{arXiv:1508.02277}}.
+
+\bibitem{Coloma:2015una}
+P.~Coloma, B.~A. Dobrescu, J.~Lopez-Pavon, {Right-handed neutrinos and the 2
+  TeV $W'$ boson}\href {http://arxiv.org/abs/1508.04129}
+  {\path{arXiv:1508.04129}}.
+
+\bibitem{Gluza:2015goa}
+J.~Gluza, T.~Jeliński, {Heavy neutrinos and the pp→lljj CMS data}, Phys.
+  Lett. B748 (2015) 125--131.
+\newblock \href {http://arxiv.org/abs/1504.05568} {\path{arXiv:1504.05568}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2015.06.077}
+  {\path{doi:10.1016/j.physletb.2015.06.077}}.
+
+\bibitem{Das:2014jxa}
+A.~Das, P.~S. Bhupal~Dev, N.~Okada, {Direct bounds on electroweak scale
+  pseudo-Dirac neutrinos from $\sqrt s=8$ TeV LHC data}, Phys. Lett. B735
+  (2014) 364--370.
+\newblock \href {http://arxiv.org/abs/1405.0177} {\path{arXiv:1405.0177}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2014.06.058}
+  {\path{doi:10.1016/j.physletb.2014.06.058}}.
+
+\bibitem{Han:2012vk}
+T.~Han, I.~Lewis, R.~Ruiz, Z.-g. Si, {Lepton Number Violation and $W^\prime$
+  Chiral Couplings at the LHC}, Phys. Rev. D87~(3) (2013) 035011, [Erratum:
+  Phys. Rev.D87,no.3,039906(2013)].
+\newblock \href {http://arxiv.org/abs/1211.6447} {\path{arXiv:1211.6447}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.87.035011,
+  10.1103/PhysRevD.87.039906} {\path{doi:10.1103/PhysRevD.87.035011,
+  10.1103/PhysRevD.87.039906}}.
+
+\bibitem{Atre:2009rg}
+A.~Atre, T.~Han, S.~Pascoli, B.~Zhang, {The Search for Heavy Majorana
+  Neutrinos}, JHEP 05 (2009) 030.
+\newblock \href {http://arxiv.org/abs/0901.3589} {\path{arXiv:0901.3589}},
+  \href {http://dx.doi.org/10.1088/1126-6708/2009/05/030}
+  {\path{doi:10.1088/1126-6708/2009/05/030}}.
+
+\bibitem{Berger:2015qra}
+J.~Berger, J.~A. Dror, W.~H. Ng, {Sneutrino Higgs models explain lepton
+  non-universality in CMS excesses}\href {http://arxiv.org/abs/1506.08213}
+  {\path{arXiv:1506.08213}}.
+
+\bibitem{Krauss:2015nba}
+M.~E. Krauss, W.~Porod, {Is the CMS eejj excess a hint for light
+  supersymmetry?}\href {http://arxiv.org/abs/1507.04349}
+  {\path{arXiv:1507.04349}}.
+
+\bibitem{Dhuria:2015swa}
+M.~Dhuria, C.~Hati, U.~Sarkar, {Explaining the CMS excesses, baryogenesis and
+  neutrino masses in $E_{6}$ motivated $U(1)_{N}$ model}\href
+  {http://arxiv.org/abs/1507.08297} {\path{arXiv:1507.08297}}.
+
+\bibitem{Keung:1983uu}
+W.-Y. Keung, G.~Senjanovic, {Majorana Neutrinos and the Production of the
+  Right-handed Charged Gauge Boson}, Phys.Rev.Lett. 50 (1983) 1427.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.50.1427}
+  {\path{doi:10.1103/PhysRevLett.50.1427}}.
+
+\bibitem{Gluza:1991wj}
+J.~Gluza, M.~Zralek, {Feynman rules for Majorana neutrino interactions}, Phys.
+  Rev. D45 (1992) 1693--1700.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.45.1693}
+  {\path{doi:10.1103/PhysRevD.45.1693}}.
+
+\bibitem{Denner:1992me}
+A.~Denner, H.~Eck, O.~Hahn, J.~Kublbeck, {Compact Feynman rules for Majorana
+  fermions}, Phys. Lett. B291 (1992) 278--280.
+\newblock \href {http://dx.doi.org/10.1016/0370-2693(92)91045-B}
+  {\path{doi:10.1016/0370-2693(92)91045-B}}.
+
+\bibitem{Schechter:1981cv}
+J.~Schechter, J.~W.~F. Valle, {Neutrino Decay and Spontaneous Violation of
+  Lepton Number}, Phys. Rev. D25 (1982) 774.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevD.25.774}
+  {\path{doi:10.1103/PhysRevD.25.774}}.
+
+\bibitem{Bu:2008fx}
+J.-P. Bu, Y.~Liao, J.-Y. Liu, {Lepton Flavor Violating Muon Decays in a Model
+  of Electroweak-Scale Right-Handed Neutrinos}, Phys. Lett. B665 (2008) 39--43.
+\newblock \href {http://arxiv.org/abs/0802.3241} {\path{arXiv:0802.3241}},
+  \href {http://dx.doi.org/10.1016/j.physletb.2008.05.059}
+  {\path{doi:10.1016/j.physletb.2008.05.059}}.
+
+\bibitem{Bilenky:1987ty}
+S.~M. Bilenky, S.~T. Petcov, {Massive Neutrinos and Neutrino Oscillations},
+  Rev. Mod. Phys. 59 (1987) 671, [Erratum: Rev. Mod. Phys.60,575(1988)].
+\newblock \href {http://dx.doi.org/10.1103/RevModPhys.59.671}
+  {\path{doi:10.1103/RevModPhys.59.671}}.
+
+\bibitem{Chen:2011hc}
+C.-Y. Chen, P.~S.~B. Dev, {Multi-Lepton Collider Signatures of Heavy Dirac and
+  Majorana Neutrinos}, Phys. Rev. D85 (2012) 093018.
+\newblock \href {http://arxiv.org/abs/1112.6419} {\path{arXiv:1112.6419}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.85.093018}
+  {\path{doi:10.1103/PhysRevD.85.093018}}.
+
+\bibitem{Han:2006ip}
+T.~Han, B.~Zhang, {Signatures for Majorana neutrinos at hadron colliders},
+  Phys. Rev. Lett. 97 (2006) 171804.
+\newblock \href {http://arxiv.org/abs/hep-ph/0604064}
+  {\path{arXiv:hep-ph/0604064}}, \href
+  {http://dx.doi.org/10.1103/PhysRevLett.97.171804}
+  {\path{doi:10.1103/PhysRevLett.97.171804}}.
+
+\bibitem{delAguila:2007em}
+F.~del Aguila, J.~A. Aguilar-Saavedra, R.~Pittau, {Heavy neutrino signals at
+  large hadron colliders}, JHEP 10 (2007) 047.
+\newblock \href {http://arxiv.org/abs/hep-ph/0703261}
+  {\path{arXiv:hep-ph/0703261}}, \href
+  {http://dx.doi.org/10.1088/1126-6708/2007/10/047}
+  {\path{doi:10.1088/1126-6708/2007/10/047}}.
+
+\bibitem{Mohapatra:1986aw}
+R.~N. Mohapatra, {Mechanism for Understanding Small Neutrino Mass in
+  Superstring Theories}, Phys. Rev. Lett. 56 (1986) 561--563.
+\newblock \href {http://dx.doi.org/10.1103/PhysRevLett.56.561}
+  {\path{doi:10.1103/PhysRevLett.56.561}}.
+
+\bibitem{Aad:2015xaa}
+G.~Aad, et~al., {Search for heavy Majorana neutrinos with the ATLAS detector in
+  pp collisions at $ \sqrt{s}=8 $ TeV}, JHEP 07 (2015) 162.
+\newblock \href {http://arxiv.org/abs/1506.06020} {\path{arXiv:1506.06020}},
+  \href {http://dx.doi.org/10.1007/JHEP07(2015)162}
+  {\path{doi:10.1007/JHEP07(2015)162}}.
+
+\bibitem{Gluza:2002vs}
+J.~Gluza, {On teraelectronvolt Majorana neutrinos}, Acta Phys.Polon. B33 (2002)
+  1735--1746.
+\newblock \href {http://arxiv.org/abs/hep-ph/0201002}
+  {\path{arXiv:hep-ph/0201002}}.
+
+\bibitem{Chen:2013foz}
+C.-Y. Chen, P.~S.~B. Dev, R.~Mohapatra, {Probing Heavy-Light Neutrino Mixing in
+  Left-Right Seesaw Models at the LHC}, Phys.Rev. D88 (2013) 033014.
+\newblock \href {http://arxiv.org/abs/1306.2342} {\path{arXiv:1306.2342}},
+  \href {http://dx.doi.org/10.1103/PhysRevD.88.033014}
+  {\path{doi:10.1103/PhysRevD.88.033014}}.
+
+\bibitem{Deppisch:2015cua}
+F.~F. Deppisch, L.~Graf, S.~Kulkarni, S.~Patra, W.~Rodejohann, N.~Sahu,
+  U.~Sarkar, {Reconciling the 2 TeV Excesses at the LHC in a Linear Seesaw
+  Left-Right Model}\href {http://arxiv.org/abs/1508.05940}
+  {\path{arXiv:1508.05940}}.
+
+\bibitem{Agashe:2014kda}
+K.~A. Olive, et~al., {Review of Particle Physics}, Chin. Phys. C38 (2014)
+  090001.
+\newblock \href {http://dx.doi.org/10.1088/1674-1137/38/9/090001}
+  {\path{doi:10.1088/1674-1137/38/9/090001}}.
+
+\end{thebibliography}

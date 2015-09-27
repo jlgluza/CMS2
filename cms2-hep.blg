@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: cms2-hep.aux
+The style file: elsarticle-num.bst
+Database file #1: LRref.bib
+Warning--I didn't find a database entry for ""
+Warning--empty booktitle in Akhmedov:2014kxa
+Warning--empty publisher in Akhmedov:2014kxa
+Warning--empty year in Akhmedov:2014kxa
+Warning--empty pages in Akhmedov:2014kxa
+Warning--empty journal in Ng:2015hba
+Warning--empty journal in Dobrescu:2015qna
+Warning--empty journal in Brehmer:2015cia
+Warning--empty journal in Dev:2015pga
+Warning--empty journal in Coloma:2015una
+Warning--empty journal in Berger:2015qra
+Warning--empty journal in Krauss:2015nba
+Warning--empty journal in Dhuria:2015swa
+Warning--empty journal in Deppisch:2015cua
+You've used 37 entries,
+            2937 wiz_defined-function locations,
+            952 strings with 11658 characters,
+and the built_in function-call counts, 10768 in all, are:
+= -- 1083
+> -- 334
+< -- 0
++ -- 136
+- -- 99
+* -- 955
+:= -- 1484
+add.period$ -- 65
+call.type$ -- 37
+change.case$ -- 39
+chr.to.int$ -- 0
+cite$ -- 50
+duplicate$ -- 280
+empty$ -- 1120
+format.name$ -- 132
+if$ -- 2745
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 37
+newline$ -- 147
+num.names$ -- 37
+pop$ -- 157
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 718
+stack$ -- 0
+substring$ -- 460
+swap$ -- 133
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 13
+while$ -- 64
+width$ -- 39
+write$ -- 366
+(There were 14 warnings)
