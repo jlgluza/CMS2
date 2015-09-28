@@ -1,7 +1,10 @@
-This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: cms2-hep.aux
 The style file: elsarticle-num.bst
 Database file #1: LRref.bib
+Warning--I didn't find a database entry for "Kuno:2013mha"
+Warning--I didn't find a database entry for "Brown:2015cka"
 Warning--I didn't find a database entry for ""
 Warning--empty booktitle in Akhmedov:2014kxa
 Warning--empty publisher in Akhmedov:2014kxa
@@ -18,7 +21,7 @@ Warning--empty journal in Dhuria:2015swa
 Warning--empty journal in Deppisch:2015cua
 You've used 37 entries,
             2937 wiz_defined-function locations,
-            952 strings with 11658 characters,
+            956 strings with 11708 characters,
 and the built_in function-call counts, 10768 in all, are:
 = -- 1083
 > -- 334
@@ -57,4 +60,4 @@ warning$ -- 13
 while$ -- 64
 width$ -- 39
 write$ -- 366
-(There were 14 warnings)
+(There were 16 warnings)

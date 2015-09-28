@@ -9,9 +9,9 @@
  \usepackage{amsbsy} 
  \usepackage{amscd} 
  \usepackage{amssymb}
- %\usepackage{bbm}  
- %\usepackage{accents} 
- \usepackage{pstricks} 
+\usepackage{bbm}  
+ \usepackage{accents} 
+% \usepackage{pstricks} 
  \usepackage{multirow} 
  
   
@@ -131,7 +131,8 @@ LHC searching analysis.
 %Since the beginning 
 Neutrino physics is full of surprises with many  experimental measurements which not always survived but which in a meantime, quite often, led to bold, interesting or even weird theoretical interpretations. 
 
-Presently, due to neutrino oscillation phenomenon, it is already established that three known neutrinos are massive, though their masses are very tiny, at the electronovolt level. Commonly we call them all the light (active) neutrinos. It was a long story which led to this result, started around a half century ago with a Homestake experiment and the so-called solar neutrino problem, leading finally to the discovery of the first type of neutrino oscillations \cite{Bahcall:1976zz}. About three decades ago, evidence for a 17-keV neutrino mass state (also called a Simpson's neutrino) coupled to the electron neutrino in nuclear decay spectra measurements made another huge controversy. The unclear situation lasted more or less during the period 1985-1993. Finally, this neutrino anomaly has been resolved and the Simpson's neutrino disappeared (in some experiments even 8 $\sigma$ C.L. have been announced). For a review on this issue, see e.g. \cite{Wietfeldt:1995ja,Franklin:1995pk}.  
+Presently, due to neutrino oscillation phenomenon, it is already
+established that two out of three known neutrinos are massive, though their masses are very tiny, at the electronovolt level. Commonly we call them all the light (active) neutrinos. It was a long story which led to this result, started around a half century ago with a Homestake experiment and the so-called solar neutrino problem, leading finally to the discovery of the first type of neutrino oscillations \cite{Bahcall:1976zz}. About three decades ago, evidence for a 17-keV neutrino mass state (also called a Simpson's neutrino) coupled to the electron neutrino in nuclear decay spectra measurements made another huge controversy. The unclear situation lasted more or less during the period 1985-1993. Finally, this neutrino anomaly has been resolved and the Simpson's neutrino disappeared (in some experiments even 8 $\sigma$ C.L. have been announced). For a review on this issue, see e.g. \cite{Wietfeldt:1995ja,Franklin:1995pk}.  
 On the way there were yet another controversies connected with neutrinoless doubly beta decay signals (see comments in \cite{Akhmedov:2014kxa}), or more recently, in the OPERA experiment.
 Especially the last result excited not only physics society but also media through the world. Finally we are again in a trivial world where neutrinos are not faster than light \cite{Antonello:2012hg}. 
 
@@ -150,7 +151,8 @@ Why these, should be said honestly, still statistically dim events are so specta
 A hunt for LFV low and high energy processes in particle physics is a decades long story. Fact is that even single LFV event detection  would be a signal for New Physics. Present bounds for low energy LFV signals, such as 
 % For that we will consider not only collisions at hadron or lepton colliders but also low energy processes as LFV 
 $\mu \to e \gamma$  are already impressive, and they should increase very much in the future, at the so-called intensity frontier experiments where
-New Physics can be probed up to unimaginable 10 000 TeV scale cite-Robert, which is four orders of magnitudes higher  than capabilities of present or doubtless future high energy colliders energies cite 
+New Physics can be probed up to unimaginable 10 000 TeV scale
+\cite{Kuno:2013mha, Brown:2015cka}, which is four orders of magnitudes higher  than capabilities of present or doubtless future high energy colliders energies cite 
  
 If heavy neutrinos have to do anything with the CMS anomaly, their masses are presumable about trillion times larger than masses of known light neutrinos (i.e. $M_{N}\sim $ TeV). 
 %Such TeV  mass scale particles can be probed at the LHC and substantial signals, responsible for the excess effects, can be obtained. 
@@ -433,18 +435,24 @@ Br(\mu\rightarrow e\gamma)=\frac{3\alpha}{32\pi}\left(\frac{m_{W}}{m_{W_{R}}}\ri
 For maximal mixing between two generations, $M_{W_{R}}=2200\,\mathrm{GeV}$
 and neutrinos masses at the scale of TeV, we need the splitting to
 be of the order of about 100GeV to get an agreement with the current
-bounds, see Fig.~\ref{meg1}. In other words, the splitting must be smaller than about $100\,\mathrm{GeV}$.
+bounds, see Fig.~\ref{meg1}. In other words, the splitting must be smaller than about $200\,\mathrm{GeV}$.
 The splitting depends also on the mass of the neutrino itself, as shown in Fig.~\ref{meg2}.
 
   {\bf Robert, dokladnie jakie parametry? opisz caption figs}
   
   \begin{figure}[h!]
   \begin{center}
-  \includegraphics[scale=0.5]{Plot1}
+  \includegraphics[width=\columnwidth]{Plot1}
   %\includegraphics[scale=0.5]{Plot2}
-  \caption{Estimation of the maximal splitting between heavy neutrino masses allowed for large LFV $\mu \to e \gamma$ process.   
+  \caption{\label{meg1}
+Estimation of the maximal splitting between heavy neutrino
+    masses allowed for large LFV $\mu \to e \gamma$ process.  Solid
+    line coresponds to mass $m_{N_1}=500$GeV, dotted line
+    $m_{N_1}=1500$GeV and dashed line $m_{N_1}=2500$GeV. We assumed
+    maximal mixing between the first and the second generation and no mixing
+    between third generation. 
   }
-  \end{center}\label{meg1}
+  \end{center}
   \end{figure}
   
 
@@ -519,7 +527,7 @@ ROBERT: UPORZADKUJ, potem cos sie wrzuci do glownego, zobacz co z tau-> e gamma,
 Neglecting light-heavy neutrinos mixing, Eq.\ref{V}, branching ratio for $\mu\rightarrow e\gamma$ is \cite{Bu:2008fx}
 
 \begin{eqnarray}
-Br(\mu  \rightarrow  e\gamma) &=& 3 \frac{\alpha}{8\pi} \left(\frac{m_{W_{1}}}{m_{W_{2}}}\right)^{2}   \nonumber \\ 
+Br(\mu  \rightarrow  e\gamma) &=& 3 \frac{\alpha}{8\pi} \left(\frac{m_{W_{1}}}{m_{W_{2}}}\right)^{4}   \nonumber \\ 
 &  & \left|  \sum_{i} \left(K_{R}^{}\right)_{ei}\left(K_{R}^{}\right)_{i\mu}F\left(\frac{m_{i}^{2}}{m_{W_{2}}^{2}}  \right)  \right|^{2}
 \end{eqnarray}
 where $m_{i}$ is the mass of the heavy neutrino and  
@@ -566,8 +574,12 @@ The splitting depends also on the mass of the neutrino itself, as shown in Fig.~
   \begin{figure}[h!]
   \begin{center}
   %\includegraphics[scale=0.5]{Plot1}
-  \includegraphics[scale=0.5]{Plot2}
-  \caption{Estimation of the maximal splitting between heavy neutrino masses allowed for large LFV $\mu \to e \gamma$ process.   
+  \includegraphics[width=\columnwidth]{Plot2}
+  \caption{Estimation of the maximal splitting between heavy neutrino
+    masses allowed for large LFV $\mu \to e \gamma$ process as a
+    function of the mass of first heavy neutrino. We assumed maximal
+    mixing between the first and the second generation and no mixing
+    with the third generation.  We also take $m_{W_R}=2200$GeV and $g_R=g_L$.
   }
   \end{center}\label{meg2}
   \end{figure}
@@ -1756,6 +1768,20 @@ Nucl.\ Phys.\ {\bf B447}, 211 (1995).
 
 %\cite{Duka:1999uc}
 
+
+%\cite{Kuno:2013mha,Brown:2015cka}
+\bibitem{Kuno:2013mha}
+  Y.~Kuno [COMET Collaboration],
+  %``A search for muon-to-electron conversion at J-PARC: The COMET experiment,''
+  PTEP {\bf 2013} (2013) 022C01.
+  %20 citations counted in INSPIRE as of 27 Sep 2015
+
+%\cite{Brown:2015cka}
+\bibitem{Brown:2015cka}
+  D.~Brown [Mu2e Collaboration],
+  %``The Mu2e Experiment: Searching for Muon to Electron Conversion,''
+  Nucl.\ Part.\ Phys.\ Proc.\  {\bf 260} (2015) 151.
+  %1 citations counted in INSPIRE as of 27 Sep 2015
 
 \end{thebibliography}
 
